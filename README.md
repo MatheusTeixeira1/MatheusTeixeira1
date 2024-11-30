@@ -10,5 +10,5 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusTeixeira1&show_icons=true)
 </div>
